@@ -1,0 +1,15 @@
+ID,Nom,Date de début,Date de fin,Durée,Avancée,Coût,Responsable,Prédécesseurs,Numéro hiérarchique,Ressources,Assignments,Nouvelle tâche,Lien internet,Notes
+0,Fiche CV,07/02/19,07/02/19,1,0,0.0,Degreze Yori,,1,Degreze Yori,"0:100,00",,,
+21,Copie_Fiche CV,07/02/19,07/02/19,1,0,0.0,Mathieu Caselles,,2,Mathieu Caselles,"1:100,00",,,
+25,Copie_Copie_Fiche CV,07/02/19,07/02/19,1,0,0.0,Enzo Echeveria,,3,Enzo Echeveria,"2:100,00",,,
+2,Mise en forme du diagram de GANTT,07/02/19,07/02/19,1,0,0,,,4,,,,,
+6,Presentation de la méthode de merise,07/02/19,14/02/19,6,0,0,,,5,,,,,
+10,MOT multimax,14/02/19,14/02/19,1,0,0,,,6,,,,,
+13,MCD/MLD,14/02/19,18/02/19,3,0,0,,,7,,,,,
+18,+ Bonus,18/02/19,18/02/19,1,0,0,,,8,,,,,
+
+
+ID,Nom,Rôle par défaut,Courriel,Téléphone,Rôle d'affectation,Taux normal
+0,Degreze Yori,Default:0,,,,0
+1,Mathieu Caselles,Default:0,,,,0
+2,Enzo Echeveria,Default:0,,,,0
